@@ -1,15 +1,3 @@
-# math
-
-Språkene:
-- C
-- Python
-- Bash
-- Excel
-- R
-
-Dataene:
-- c.raw
-- python.raw
-- bash.raw
-- excel.raw
-- r.raw
+# MA223-project
+Some pseudorandom data generated for the MA223-project.
+Code written by K. Gislefoss, C. Fløystad & M. Bauge 
